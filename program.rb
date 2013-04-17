@@ -1,1 +1,3 @@
 puts 'ok'
+puts 'fine'
+
